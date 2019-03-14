@@ -118,4 +118,4 @@ GROUP BY Date;
 ```
 
 ## Miscellaneous
-![OutPut.png]((https://github.com/maddivenkatadinesh/loganalysis_udacity/blob/master/OutPut.png))
+![OutPut.png]((https://github.com/maddivenkatadinesh/loganalysis/blob/master/OutPut.png))
